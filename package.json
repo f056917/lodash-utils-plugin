@@ -1,10 +1,10 @@
 {
   "name": "lodash-utils-plugin",
-  "version": "1.0.0",
+  "version": "1.2.6",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xxx/shang-utils"
+    "url": "https://github.com/f056917/lodash-utils-plugin"
   },
   "main": "index.js",
   "scripts": {
